@@ -1,32 +1,39 @@
-# 🛒 ShopSphere
+<h1 align="center">🛒 ShopSphere</h1>
 
-ShopSphere is a modern full-stack eCommerce web application designed to provide a smooth and responsive online shopping experience.
-
-This project was built using the MERN Stack and focuses on core eCommerce functionalities such as authentication, product browsing, cart management, and order handling.
+<p align="center">
+Modern Full Stack MERN eCommerce Web Application
+</p>
 
 ---
 
-# 🚀 Features
+## 🚀 About The Project
+
+ShopSphere is a modern and responsive eCommerce web application built using the MERN Stack.
+
+This project focuses on providing users with a smooth online shopping experience including product browsing, authentication, cart management, and order handling.
+
+---
+
+# ✨ Features
 
 ## 👤 User Features
 
-- User Registration & Login
-- Secure Authentication
+- User Authentication
 - Browse Products
 - Product Details Page
 - Add to Cart
-- Remove Items from Cart
-- Responsive UI
+- Remove From Cart
+- Responsive Design
 
 ## 🛠️ Admin Features
 
-- Product Management
-- Order Management
-- User Management
+- Manage Products
+- Manage Orders
+- Manage Users
 
 ---
 
-# 💻 Tech Stack
+# 🧰 Tech Stack
 
 ### Frontend
 - React.js
@@ -51,12 +58,12 @@ backend/
 
 ---
 
-# ⚙️ Installation Guide
+# ⚙️ Installation
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/imapurvsatyam/shopsphere.git
+git clone https://github.com/imapurvsatyam/Shopsphere.git
 ```
 
 ## Install Dependencies
@@ -65,14 +72,18 @@ git clone https://github.com/imapurvsatyam/shopsphere.git
 npm install
 ```
 
-## Run Frontend
+---
+
+# ▶️ Run Project
+
+## Start Frontend
 
 ```bash
 cd frontend
 npm start
 ```
 
-## Run Backend
+## Start Backend
 
 ```bash
 npm run server
@@ -84,7 +95,7 @@ npm run server
 
 - Online Payment Integration
 - Wishlist Functionality
-- Product Reviews & Ratings
+- Product Reviews
 - Dark Mode
 - Order Tracking
 
@@ -92,7 +103,7 @@ npm run server
 
 # 📸 Screenshots
 
-Project screenshots will be added soon.
+Screenshots will be added soon.
 
 ---
 
@@ -102,3 +113,9 @@ Apurv Satyam
 
 GitHub:
 https://github.com/imapurvsatyam
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
