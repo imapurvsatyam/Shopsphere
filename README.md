@@ -1,8 +1,8 @@
 # 🛒 ShopSphere
 
-ShopSphere is a modern full-stack eCommerce web application built using the MERN Stack.
+ShopSphere is a modern full-stack eCommerce web application designed to provide a smooth and responsive online shopping experience.
 
-It allows users to browse products, manage carts, authenticate securely, and place orders through a responsive and clean interface.
+This project was built using the MERN Stack and focuses on core eCommerce functionalities such as authentication, product browsing, cart management, and order handling.
 
 ---
 
@@ -15,34 +15,34 @@ It allows users to browse products, manage carts, authenticate securely, and pla
 - Browse Products
 - Product Details Page
 - Add to Cart
-- Remove from Cart
-- Checkout Flow
+- Remove Items from Cart
+- Responsive UI
 
 ## 🛠️ Admin Features
 
-- Admin Dashboard
-- Manage Products
-- Manage Orders
-- Manage Users
+- Product Management
+- Order Management
+- User Management
 
 ---
 
-# 🧰 Tech Stack
+# 💻 Tech Stack
 
-## Frontend
+### Frontend
 - React.js
 - CSS
+- Axios
 
-## Backend
+### Backend
 - Node.js
 - Express.js
 
-## Database
+### Database
 - MongoDB
 
 ---
 
-# 📂 Project Structure
+# 📂 Folder Structure
 
 ```bash
 frontend/
@@ -51,7 +51,7 @@ backend/
 
 ---
 
-# ⚙️ Installation
+# ⚙️ Installation Guide
 
 ## Clone Repository
 
@@ -65,36 +65,38 @@ git clone https://github.com/imapurvsatyam/shopsphere.git
 npm install
 ```
 
----
-
-# ▶️ Run Project
-
-## Start Backend
-
-```bash
-npm run server
-```
-
-## Start Frontend
+## Run Frontend
 
 ```bash
 cd frontend
 npm start
 ```
 
+## Run Backend
+
+```bash
+npm run server
+```
+
 ---
 
 # 🌟 Future Improvements
 
-- Payment Gateway
-- Product Reviews
-- Wishlist
+- Online Payment Integration
+- Wishlist Functionality
+- Product Reviews & Ratings
 - Dark Mode
 - Order Tracking
 
 ---
 
-# 👨‍💻 Author
+# 📸 Screenshots
+
+Project screenshots will be added soon.
+
+---
+
+# 👨‍💻 Developer
 
 Apurv Satyam
 
