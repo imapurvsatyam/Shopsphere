@@ -4,13 +4,19 @@
 Modern Full Stack MERN eCommerce Web Application
 </p>
 
+<p align="center">
+Responsive • Secure • Fast • Modern UI
+</p>
+
 ---
 
-## 🚀 About The Project
+# 🚀 About The Project
 
-CartNova is a modern and responsive eCommerce web application built using the MERN Stack.
+CartNova is a modern and responsive full stack eCommerce web application built using the MERN Stack.
 
-This project focuses on providing users with a smooth online shopping experience including product browsing, authentication, cart management, and order handling.
+The application provides users with a smooth online shopping experience including product browsing, authentication, cart management, and admin controls.
+
+This project is built for learning full stack development and can also be used as a strong resume project.
 
 ---
 
@@ -18,33 +24,47 @@ This project focuses on providing users with a smooth online shopping experience
 
 ## 👤 User Features
 
-- User Authentication
+- User Authentication (Login & Signup)
 - Browse Products
 - Product Details Page
 - Add to Cart
 - Remove From Cart
+- Protected Routes
 - Responsive Design
+- Modern UI
+
+---
 
 ## 🛠️ Admin Features
 
 - Manage Products
 - Manage Orders
 - Manage Users
+- Dashboard Access
 
 ---
 
 # 🧰 Tech Stack
 
-### Frontend
-- React.js
-- CSS
-- Axios
+## 🎨 Frontend
 
-### Backend
+- React.js
+- Axios
+- Tailwind CSS
+- React Router DOM
+
+---
+
+## ⚙️ Backend
+
 - Node.js
 - Express.js
+- JWT Authentication
 
-### Database
+---
+
+## 🗄️ Database
+
 - MongoDB
 
 ---
@@ -52,23 +72,39 @@ This project focuses on providing users with a smooth online shopping experience
 # 📂 Folder Structure
 
 ```bash
-frontend/
-backend/
+CartNova/
+│
+├── frontend/
+├── backend/
+├── screenshots/
+└── README.md
 ```
 
 ---
 
 # ⚙️ Installation
 
-## Clone Repository
+## 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/imapurvsatyam/CartNova.git
 ```
 
-## Install Dependencies
+---
+
+## 2️⃣ Install Dependencies
+
+### Frontend
 
 ```bash
+cd frontend
+npm install
+```
+
+### Backend
+
+```bash
+cd backend
 npm install
 ```
 
@@ -80,12 +116,15 @@ npm install
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
+
+---
 
 ## Start Backend
 
 ```bash
+cd backend
 npm run server
 ```
 
@@ -95,24 +134,42 @@ npm run server
 
 - Online Payment Integration
 - Wishlist Functionality
-- Product Reviews
-- Dark Mode
+- Product Reviews & Ratings
+- Dark/Light Theme
 - Order Tracking
+- Email Notifications
+- Search & Filter Products
 
 ---
 
 # 📸 Screenshots
 
-Screenshots will be added soon.
+## 🏠 Home Page
+
+![Home Page](./screenshots/home.png)
+
+---
+
+## 🔐 Signup Page
+
+![Signup Page](./screenshots/signup.png)
+
+---
+
+## 🔑 Login Page
+
+![Login Page](./screenshots/login.png)
 
 ---
 
 # 👨‍💻 Developer
 
-**Apurv Satyam**
+## Apurv Satyam
 
-🔗 GitHub  
+### 🔗 GitHub
 https://github.com/imapurvsatyam
 
-💼 LinkedIn:
-https://www.linkedin.com/in/apurv-satyam-5a72662b8 
+### 💼 LinkedIn
+https://www.linkedin.com/in/apurv-satyam-5a72662b8
+
+---
