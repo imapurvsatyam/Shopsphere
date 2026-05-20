@@ -1,4 +1,4 @@
-<h1 align="center">🛒 ShopSphere</h1>
+<h1 align="center">🛒 CartNova</h1>
 
 <p align="center">
 Modern Full Stack MERN eCommerce Web Application
@@ -8,7 +8,7 @@ Modern Full Stack MERN eCommerce Web Application
 
 ## 🚀 About The Project
 
-ShopSphere is a modern and responsive eCommerce web application built using the MERN Stack.
+CartNova is a modern and responsive eCommerce web application built using the MERN Stack.
 
 This project focuses on providing users with a smooth online shopping experience including product browsing, authentication, cart management, and order handling.
 
@@ -63,7 +63,7 @@ backend/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/imapurvsatyam/Shopsphere.git
+git clone https://github.com/imapurvsatyam/CartNova.git
 ```
 
 ## Install Dependencies
