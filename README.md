@@ -109,13 +109,10 @@ Screenshots will be added soon.
 
 # 👨‍💻 Developer
 
-Apurv Satyam
+**Apurv Satyam**
 
-GitHub:
+🔗 GitHub  
 https://github.com/imapurvsatyam
 
----
-
-# ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub.
+💼 LinkedIn:
+https://www.linkedin.com/in/apurv-satyam-5a72662b8 
